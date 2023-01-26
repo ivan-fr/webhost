@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: ivanbesevic
-        password: "@!8@Z(lL6L6MJysig@()"
+        password: @!8@Z(lL6L6MJysig@()
         server-dir : public_html/
