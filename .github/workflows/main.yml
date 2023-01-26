@@ -14,4 +14,4 @@ jobs:
         server: files.000webhost.com
         username: ivanbesevic
         password: ivanbesevic
-        server-dir : public_html/
+        server-dir : ./public_html/
