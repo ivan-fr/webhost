@@ -7,11 +7,11 @@ jobs:
     steps:
     - name: Get latest code
       uses: actions/checkout@v3
-
+    
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: ivanbesevic
-        password: @!8@Z(lL6L6MJysig@()
+        username: projetnfa021
+        password: '@!8@Z(lL6L6MJysig@()'
         server-dir : public_html/
